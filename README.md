@@ -51,9 +51,15 @@ with Home Assistant using ESPHome.
 
 ## 📷 Demo
 <img width="747" height="549" alt="image" src="https://github.com/user-attachments/assets/2d866b4f-5e07-4349-9cd6-a70d51cefc1f" />
-
+<img width="858" height="429" alt="image" src="https://github.com/user-attachments/assets/a8ff6996-0b3f-4717-a3db-886e47c70858" />
 
 Smart home prototype
+<img width="1179" height="568" alt="image" src="https://github.com/user-attachments/assets/ea5ac685-9f0a-4f6c-a24a-b984d9f19b88" />
+
+Home Assistant dashboard inside
+<img width="1179" height="375" alt="image" src="https://github.com/user-attachments/assets/a2f7ccad-6721-460a-a3ac-6e9a52fae65b" />
+Home Assistant dashboard outside
+
 *(Add photos of the PCB, hardware setup, or Home Assistant dashboard)*
 
 ---
