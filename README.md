@@ -64,7 +64,10 @@ HOME ASSISTANT DASHBOARD OUTSIDE
 <img width="1179" height="375" alt="image" src="https://github.com/user-attachments/assets/a2f7ccad-6721-460a-a3ac-6e9a52fae65b" />
 
 
-*(Add photos of the PCB, hardware setup, or Home Assistant dashboard)*
+SCHEMATIC DIAGRAM
+<img width="748" height="529" alt="image" src="https://github.com/user-attachments/assets/ee90583c-3f71-4cd1-b915-946e3226e304" />
+
+
 
 ---
 
