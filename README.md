@@ -52,6 +52,7 @@ with Home Assistant using ESPHome.
 ## 📷 Demo
 
 SMART HOME PROTOTYPE
+
 <img width="747" height="549" alt="image" src="https://github.com/user-attachments/assets/2d866b4f-5e07-4349-9cd6-a70d51cefc1f" />
 <img width="858" height="429" alt="image" src="https://github.com/user-attachments/assets/a8ff6996-0b3f-4717-a3db-886e47c70858" />
 
